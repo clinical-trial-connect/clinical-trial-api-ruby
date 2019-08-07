@@ -1,2 +1,3 @@
-# clinical-trial-api-ruby
-Ruby client for the Clinical Trial API.
+# Ruby client for the Clinical Trial API.
+
+Coming soon.
